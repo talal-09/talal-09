@@ -17,7 +17,7 @@ I'm a student developer who enjoys turning ideas into practical software. I'm cu
 
 A full-stack workshop management platform for organizing customers, vehicles, maintenance workflows, services, inventory, invoices, and payments.
 
-### Rased
+  ### Sanad
 
 A research-oriented medical follow-up platform that explores AI-assisted analysis of chest CT scans and supports the clinical review and follow-up of pulmonary nodules.
 
