@@ -11,17 +11,33 @@ I'm a student developer who enjoys turning ideas into practical software. I'm cu
 - ☕ Learning Java and strengthening my software engineering fundamentals
 - 🧪 Interested in testing, security, clean code, and maintainable systems
 
-## Current Projects
+## Featured Projects
 
-### Masar
+### [Masar](https://github.com/talal-09/masar)
 
 A full-stack workshop management platform for organizing customers, vehicles, maintenance workflows, services, inventory, invoices, and payments.
 
-  ### Sanad
+[Live bilingual showcase](https://talal-09.github.io/masar/) · [Source and documentation](https://github.com/talal-09/masar)
 
-A research-oriented medical follow-up platform that explores AI-assisted analysis of chest CT scans and supports the clinical review and follow-up of pulmonary nodules.
+<p align="center">
+  <a href="https://talal-09.github.io/masar/">
+    <img src="https://raw.githubusercontent.com/talal-09/masar/main/docs/assets/masar-showcase.png" alt="Masar workshop-management showcase" width="100%">
+  </a>
+</p>
 
-> SANAD is an educational and research project. It is not a medical device and does not provide medical diagnoses
+### [SANAD](https://github.com/talal-09/SANAD)
+
+A research-oriented medical follow-up platform that explores AI-assisted analysis of chest CT scans and supports clinical review and follow-up of pulmonary nodules.
+
+[Live bilingual showcase](https://talal-09.github.io/SANAD/) · [Source and documentation](https://github.com/talal-09/SANAD)
+
+<p align="center">
+  <a href="https://talal-09.github.io/SANAD/">
+    <img src="https://raw.githubusercontent.com/talal-09/SANAD/main/docs/assets/sanad-english.png" alt="SANAD pulmonary-nodule review showcase" width="100%">
+  </a>
+</p>
+
+> SANAD is an educational and research project. It is not a medical device and does not provide medical diagnoses.
 
 ## Technologies
 
