@@ -21,7 +21,7 @@ A full-stack workshop management platform for organizing customers, vehicles, ma
 
 A research-oriented medical follow-up platform that explores AI-assisted analysis of chest CT scans and supports the clinical review and follow-up of pulmonary nodules.
 
-> Rased is an educational and research project. It is not a medical device and does not provide medical diagnoses.
+> SANAD is an educational and research project. It is not a medical device and does not provide medical diagnoses
 
 ## Technologies
 
